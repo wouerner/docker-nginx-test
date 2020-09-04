@@ -8,7 +8,7 @@ Command being timed: "ab -n 500000 -c 15000 http://localhost:80/"
         User time (seconds): 9.22
         System time (seconds): 1147.90
         Percent of CPU this job got: 94%
-        **Elapsed (wall clock) time (h:mm:ss or m:ss): 20:27.34**
+        *Elapsed (wall clock) time (h:mm:ss or m:ss): 20:27.34*
         Average shared text size (kbytes): 0
         Average unshared data size (kbytes): 0
         Average stack size (kbytes): 0
@@ -37,7 +37,7 @@ AMD Ryzen 7 3800X 8-Core Processor
         User time (seconds): 2.24
         System time (seconds): 537.61
         Percent of CPU this job got: 99%
-        **Elapsed (wall clock) time (h:mm:ss or m:ss): 9:01.25**
+        *Elapsed (wall clock) time (h:mm:ss or m:ss): 9:01.25*
         Average shared text size (kbytes): 0
         Average unshared data size (kbytes): 0
         Average stack size (kbytes): 0
